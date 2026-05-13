@@ -1,0 +1,14 @@
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\bin\Debug\net10.0\Lab01-A1-GerardoDanielDiazSantos.exe
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\bin\Debug\net10.0\Lab01-A1-GerardoDanielDiazSantos.deps.json
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\bin\Debug\net10.0\Lab01-A1-GerardoDanielDiazSantos.runtimeconfig.json
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\bin\Debug\net10.0\Lab01-A1-GerardoDanielDiazSantos.dll
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\bin\Debug\net10.0\Lab01-A1-GerardoDanielDiazSantos.pdb
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\obj\Debug\net10.0\Lab01-A1-GerardoDanielDiazSantos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\obj\Debug\net10.0\Lab01-A1-GerardoDanielDiazSantos.AssemblyInfoInputs.cache
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\obj\Debug\net10.0\Lab01-A1-GerardoDanielDiazSantos.AssemblyInfo.cs
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\obj\Debug\net10.0\Lab01-A1-GerardoDanielDiazSantos.csproj.CoreCompileInputs.cache
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\obj\Debug\net10.0\Lab01-A1-GerardoDanielDiazSantos.dll
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\obj\Debug\net10.0\refint\Lab01-A1-GerardoDanielDiazSantos.dll
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\obj\Debug\net10.0\Lab01-A1-GerardoDanielDiazSantos.pdb
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\obj\Debug\net10.0\Lab01-A1-GerardoDanielDiazSantos.genruntimeconfig.cache
+C:\Universidad\Pensamiento computacional\Lab01-A1-GerardoDanielDiazSantos\Lab01-A1-GerardoDanielDiazSantos\obj\Debug\net10.0\ref\Lab01-A1-GerardoDanielDiazSantos.dll
